@@ -1,0 +1,60 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+ 
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    bottom: 70px;
+
+}
+
+  .Search{
+    text-align: center;
+  }
+
+ 
+.button{
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+  color: white;
+ background-color:white;
+ border-color:white;
+ outline: none;
+ border:none;
+}
+
+  .thing{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 20px;
+    width: 50%;
+    max-width: 50px;
+
+
+  }
+
+
+  .unnamed{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 4px;
+    border:none;
+   background-color:transparent;
+   
+  }
+
+
+.googleApps{
+    max-width: 10px;
+    color: white;
+    background-color:white;
+}
